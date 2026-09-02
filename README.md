@@ -1,4 +1,3 @@
-# AIML-Task-8
 # 🏙️ My City Lifestyle Clustering Analysis
 
 ## 📌 Project Goal: Figuring Out City Groups
